@@ -1,3 +1,5 @@
+**This project is no longer fetching Google+ user profiles as Google discontinued specific API. 
+
 A web app for finding google+ user profile.
 https://google-profile-neel.herokuapp.com/
 
